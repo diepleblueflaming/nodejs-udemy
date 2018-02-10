@@ -1,0 +1,11 @@
+{
+  "name": "udemy-node-app",
+  "version": "1.0.0",
+  "description": "udemy nodejs course create note-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "diepple",
+  "license": "ISC"
+}
